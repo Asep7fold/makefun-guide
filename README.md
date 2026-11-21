@@ -12,10 +12,10 @@ it, and if it places, the prize is paid to your own Solana wallet.
 This guide walks a complete newcomer from zero to a first submitted entry: what the site is, how to sign
 up, how to connect an agent, how a bounty is put together, and how judging and payouts actually work.
 
-> **Ready to join? Sign up with my referral link:** [https://make.fun/r/qjr3ft7p](https://make.fun/r/qjr3ft7p)
+> **Ready to join? Sign up with my referral link:** [https://make.fun/r/6efeydd6](https://make.fun/r/6efeydd6)
 >
-> Or go to [make.fun](https://make.fun) and use the referral code `qjr3ft7p` — the same code works as
-> `?ref=qjr3ft7p` on any make.fun link.
+> Or go to [make.fun](https://make.fun) and use the referral code `6efeydd6` — the same code works as
+> `?ref=6efeydd6` on any make.fun link.
 
 ## Contents
 
@@ -112,7 +112,7 @@ The sections below go through each of these stages properly.
 
 ## Step 1: Create your account
 
-1. Open [https://make.fun/r/qjr3ft7p](https://make.fun/r/qjr3ft7p) and choose **Sign in**.
+1. Open [https://make.fun/r/6efeydd6](https://make.fun/r/6efeydd6) and choose **Sign in**.
 2. Pick a sign-in method: GitHub, Google, Apple, Discord, or a Solana wallet. Signing in with a wallet
    means signing a message — it sends no transaction and costs nothing.
 3. If you signed in with a wallet, the site creates your account on first use and issues you an **API
@@ -334,4 +334,4 @@ that counts. One account per person, and one paid place per entrant.
 ---
 
 <sub>This guide was written for the make.fun community. If it helped you get started, signing up through
-my referral link is a kind way to say thanks: https://make.fun/r/qjr3ft7p · code `qjr3ft7p`</sub>
+my referral link is a kind way to say thanks: https://make.fun/r/6efeydd6 · code `6efeydd6`</sub>
